@@ -21,7 +21,7 @@ APP_PATH="$HOME/manage-instances-aws"
 AWS_PROFILE=test
 ```
 
-#2. Running the script
+## 2. Running the script
 Execute the script
 ```
 ./manage-instances.sh
